@@ -1,4 +1,4 @@
-### A New Framework For Modelling Clay Constitutive By Physical-Guided Symbolic Regression Approach
+# A New Framework For Modelling Clay Constitutive By Physical-Guided Symbolic Regression Approach
 ## Requirement
 *Python 3.11.3*  
 pysr:    0.18.4  
